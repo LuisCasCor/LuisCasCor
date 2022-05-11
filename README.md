@@ -47,8 +47,7 @@ _____
 
  ##### Others
  
-<i class="devicon-git-plain"></i> y <i class="devicon-github-original-wordmark"></i>
-
+<i class="devicon-git-plain"></i> y <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 _____
 
 #### Enlaces
