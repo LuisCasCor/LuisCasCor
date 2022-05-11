@@ -1,8 +1,4 @@
-### Hi there 👋
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-
+### Hola!! 👋 Gracias por visitar mi pefil de GitHub :purple_heart:
 
 <!--
 **LuisCasCor/LuisCasCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,43 +14,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Mi información personal:
+Mi nombre es Luis Casado, soy estudiante de programación y este es mi perfil de GitHub.
+* :pushpin: Valladolid, Castilla y Leon, España.
+* :underage: Tengo 20 años.
+* :mortar_board: Estoy titulado en Gestión y Dirección de empresas.
+* :school_satchel: Actualmente estoy cursando Desarrollo de Aplicaciones Multiplataforma.
+* :hourglass: Mi tiempo libre lo dedico a jugar videojuegos, escuchar música y ver peliculas y series.
 
-#### Tengo conocimientos sobre:
+____
+
+### Tengo conocimientos sobre:
 
 ##### Programming languages
 
-<i class="devicon-c-plain"></i>, <i class="devicon-java-plain"></i>, <i class="devicon-javascript-plain"></i>, 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
 ____
 
 ##### FrontEnd Development
 
-<i class="devicon-javascript-plain"></i>, <i class="devicon-html5-plain-wordmark"></i>, <i class="devicon-css3-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="50"/>
 
 ____
 
 ##### Backend Development
 
-<i class="devicon-nodejs-plain"></i>, <i class="devicon-javascript-plain"></i>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
 _____
 
 ##### Database
 
-<i class="devicon-mysql-plain-wordmark"></i>, <i class="devicon-postgresql-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="50"/>
 
 _____
 
  ##### Others
- 
-<i class="devicon-git-plain"></i> y <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" width="50"/>
 _____
 
-#### Enlaces
-<www.sanviatorvalladolid.com>
-<luis.cascor@sanviatorvalladolid.com>
+### Estadisticas de mi perfil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCasCor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuisCasCor&theme=dark&background=000000)](https://git.io/streak-stats)
+
+_____
+
+### Contacto
+
+* [:e-mail: Email](luis.cascor@sanviatorvalladolid.com)
+
+_____
