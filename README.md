@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Enlaces
+<www.sanviatorvalladolid.com>
+<luis.cascor@sanviatorvalladolid.com>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCasCor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCasCor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuisCasCor&theme=dark&background=000000)](https://git.io/streak-stats)
